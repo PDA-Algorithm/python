@@ -1,3 +1,9 @@
+"""
+1. (, [ -> tmp *= 2, tmp *= 3
+2. ) -> tmp //= 2, 앞이 ( 면 res에 tmp 값 추가
+3. ] -> tmp //= 3, 앞이 [ 면 res에 tmp 값 추가
+"""
+
 string = input()
 stack = []
 tmp = 1
@@ -15,7 +21,7 @@ for i in range(len(string)):
         if not stack or stack[-1] == '[':
             result = 0
             break
-        # 앞에 짝이 맞는 경우, result에 값 담아두기
+        # 앞에 짝이 맞는 경우, result에 값 더하기
         elif string[i-1] == '(':
             result += tmp
         tmp //= 2
@@ -25,7 +31,7 @@ for i in range(len(string)):
         if not stack or stack[-1] == '(':
             result = 0
             break
-        # 앞에 짝이 맞는 경우, result에 값 담아두기
+        # 앞에 짝이 맞는 경우, result에 값 더하기
         elif string[i-1] == '[':
             result += tmp
         tmp //= 3
