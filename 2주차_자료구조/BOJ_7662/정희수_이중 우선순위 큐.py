@@ -39,8 +39,9 @@ for _ in range(t):
             if val == 1:
                 while True:
                     delVal = hq.heappop(max_heap)
+                    # 시간 초과난 부분
                     # if dict.get(-delVal) != None and dict.get(-delVal) >= 1:
-                    # 시간 초과 -> dict.get(val) 두번 조회하는 것보다, 
+                    # dict.get(val) 두번 조회하는 것보다, 
                     # dict.get(val) 한번만 조회하고 dict[val] 접근 한번하는게 시간 더 적게 소요
                     if dict.get(-delVal) != None and dict[-delVal] >= 1:
                         dict[-delVal] -= 1
