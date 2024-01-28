@@ -18,7 +18,7 @@
 ### 🚩 week 2
 | 문제 | 제목 | rank |
 | :--: | :--: | :--: |
-| 21939 | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 21939 | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
