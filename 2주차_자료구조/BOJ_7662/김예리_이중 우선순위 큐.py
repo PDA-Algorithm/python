@@ -32,7 +32,7 @@ for i in range(T):
     order, n = sys.stdin.readline().rstrip().split()
     n = int(n)
     if order == "I":
-      check[n] += 1
+      check[n] += 1 # 모든 정수 삽입에 대해서 똑같이 처리
       heapq.heappush(max_q, -n)
       heapq.heappush(min_q, n)
       num += 1 # 큐 길이 +1
