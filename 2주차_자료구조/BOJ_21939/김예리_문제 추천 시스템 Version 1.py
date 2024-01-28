@@ -30,10 +30,9 @@
 
 
 # 2.
-# 리스트 인덱스가 문제 번호고 리스트에다가 난이도랑 실제 추천 여부를 저장
-# 추천할 때 리스트에서 실제 추천 여부 검사와 실제 난이도 검사가 둘 다 참
-# Add 할 때는 리스트에다가 난이도랑 실제 추천을 참으로 넣고,
-# 힙에다가도 난이도랑 문제 추가
+# 리스트 인덱스가 문제 번호고 problem 리스트에다가 난이도랑 실제 추천 여부를 저장
+# Recommend 할 때 리스트에서 실제 추천 여부 검사와 실제 난이도 검사가 둘 다 참
+# Add 할 때는 리스트에다가 난이도랑 실제 추천을 참으로 넣고, 힙에다가도 난이도랑 문제 추가
 # Solved 할 때는 리스트 실제 추천 여부를 거짓으로 하고,
 # 추천할 때 실제 추천 여부 검사가 거짓일 때만 힙에서 pop
 import sys
@@ -42,7 +41,7 @@ import heapq
 max_heap=[]
 min_heap=[]
 
-problem=[[0 for col in range(2)] for row in range(100001)]
+problem=[[0 for col in range(2)] for row in range(100001)] #IndexError 100000
 
 n = int(sys.stdin.readline())
 
