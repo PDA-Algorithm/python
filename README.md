@@ -22,3 +22,11 @@
 | 11279 | [최대 힙](https://www.acmicpc.net/problem/11279) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+
+### 🚩 week 3
+| 문제 | 제목 | rank |
+| :--: | :--: | :--: |
+| 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 1068 | [트리](https://www.acmicpc.net/problem/1068) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 9372 | [상근이의 여행](https://www.acmicpc.net/problem/9372) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| 1967 | [트리의 지름](https://www.acmicpc.net/problem/1967) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
