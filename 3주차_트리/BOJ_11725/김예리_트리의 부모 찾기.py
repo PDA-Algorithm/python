@@ -1,13 +1,27 @@
 import sys
-
+# recursion error 방지
+sys.setrecursionlimit(10 ** 5)
 
 input = sys.stdin.readline
 
-tree = {}
 n = int(input())
+
+graph = [[] for _ in range(n+1)]
+visited = [0] * (n+1)
+
+def dfs(v):
+  for i in graph[v]:
+    if visited[i] == 0:
+      visited[i] = v
+      dfs(i)
+
 for _ in range(n-1):
   a, b = map(int, input().split())
-  tree[b]=a
+  graph[a].append(b)
+  graph[b].append(a)
 
-for i in range(n):
-  print(tree[i+1])
+
+dfs(1)
+
+for i in range(2, n+1):
+  print(visited[i])
