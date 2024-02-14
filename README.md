@@ -38,3 +38,11 @@
 | 11052 | [카드 구매하기](https://www.acmicpc.net/problem/11052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 9465 | [스티커](https://www.acmicpc.net/problem/9465) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+
+### 🚩 week 5
+| 문제 | 제목 | rank |
+| :--: | :--: | :--: |
+| 9084 | [동전](https://www.acmicpc.net/problem/9084) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1695 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 1535 | [안녕](https://www.acmicpc.net/problem/1535) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
