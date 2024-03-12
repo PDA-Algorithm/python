@@ -65,3 +65,11 @@
 | 1448 | [삼각형 만들기](https://www.acmicpc.net/problem/1448) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 13305 | [주유소](https://www.acmicpc.net/problem/13305) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+
+### 🚩 week 9
+| 문제 | 제목 | rank |
+| :--: | :--: | :--: |
+| 21921 | [블로그](https://www.acmicpc.net/problem/21921) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 20922 | [겹치는 건 싫어](https://www.acmicpc.net/problem/20922) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2531 | [회전초밥](https://www.acmicpc.net/problem/2531) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2467 | [용액](https://www.acmicpc.net/problem/2467) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
