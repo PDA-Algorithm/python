@@ -57,3 +57,11 @@
 | 1456 | [거의 소수](https://www.acmicpc.net/problem/1695) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 1747 | [소수&팰린드롬](https://www.acmicpc.net/problem/1747) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 21275 | [폰 호석만](https://www.acmicpc.net/problem/21275) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+
+### 🚩 week 8
+| 문제 | 제목 | rank |
+| :--: | :--: | :--: |
+| 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 1448 | [삼각형 만들기](https://www.acmicpc.net/problem/1448) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 13305 | [주유소](https://www.acmicpc.net/problem/13305) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
