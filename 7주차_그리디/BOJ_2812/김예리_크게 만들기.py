@@ -2,14 +2,20 @@ import sys
 
 input = sys.stdin.readline
 
-n = int(input())
-road_len = list(map(int, input().split()))
-price = list(map(int, input().split()))
+n, k = map(int, input().split())
+num = input().strip() # 맨 끝 줄바꿈 제거
 
-tmp = price[0] # 기준 가격
-answer = 0
-for i in range(n-1):
-  if tmp > price[i]: # 기준 가격이 비교 가격보다 커진다면
-    tmp = price[i] # 기준 가격을 비교 가격으로 두고
-  answer += tmp*road_len[i] # 기준 가격이랑 거리랑 곱해서 결과에 더해줌
-print(answer)
+stack = []
+cnt = 0
+
+for n in num:
+  while stack and stack[-1] < n and cnt!=k:
+    stack.pop()
+    cnt+=1
+  stack.append(n)
+
+# k개를 지우지 않았을 때 처리
+if cnt!=k:
+  print("".join(stack[:-(k-cnt)]))
+else:
+  print("".join(stack))
