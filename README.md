@@ -46,3 +46,14 @@
 | 1695 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1695) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 1535 | [안녕](https://www.acmicpc.net/problem/1535) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 | 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+
+### 🚩 week 6
+### 🤫
+
+### 🚩 week 7
+| 문제 | 제목 | rank |
+| :--: | :--: | :--: |
+| 22943 | [수](https://www.acmicpc.net/problem/22943) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1456 | [거의 소수](https://www.acmicpc.net/problem/1695) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1747 | [소수&팰린드롬](https://www.acmicpc.net/problem/1747) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 21275 | [폰 호석만](https://www.acmicpc.net/problem/21275) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
