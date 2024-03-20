@@ -9,7 +9,7 @@ for i in range(n):
         tmp = set(plate[i:i+k])
     else:
         tmp = set(plate[i:])
-        tmp.update(plate[:(i+k)%n])  # %나머지 기호를 잘 사용하자!
+        tmp.update(plate[:(i+k)%n])
     #print(tmp, end=' ')
     tmp.add(c)
     #print(tmp)
